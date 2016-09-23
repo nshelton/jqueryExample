@@ -1,0 +1,10 @@
+.animal {
+ 	width:200;	
+ 	/*background-color: green;*/
+ 	margin:20px;
+ 	text-align: center;
+}
+
+.animal img {
+	width:200px;
+}
